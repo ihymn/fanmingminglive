@@ -13002,6 +13002,9 @@
 	<programme channel="咪咕综合体育" start="20260115011500 +0800" stop="20260115030000 +0800">
 		<title lang="zh">2025国际马联场地障碍欧锦赛个人决赛 1</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260115030000 +0800" stop="20260115054500 +0800">
+		<title lang="zh">足球世界-25/26赛季德甲 第17轮 科隆-拜仁慕尼黑 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -13019,6 +13022,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260115021000 +0800" stop="20260115035000 +0800">
 		<title lang="zh">2025NBL联赛 总决赛G1 长沙电信勇胜-香港金牛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260115035000 +0800" stop="20260115040000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260115040000 +0800" stop="20260115050000 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -23214,17 +23223,6 @@
 	<programme channel="汽摩" start="20260115141000 +0800" stop="20260115142500 +0800">
 		<title lang="zh">爱车具乐部</title>
 	</programme>
-	<programme channel="汽摩" start="20260115142500 +0800" stop="20260115142600 +0800">
-		<title lang="zh">爱车小百科</title>
-	</programme>
-	<programme channel="汽摩" start="20260115142600 +0800" stop="20260115143000 +0800">
-		<title lang="zh">名车欣赏</title>
-	</programme>
-	<programme channel="汽摩" start="20260115143000 +0800" stop="20260115144900 +0800">
-		<title lang="zh">汽摩竞技场</title>
-	</programme>
-	<programme channel="汽摩" start="20260115144900 +0800" stop="20260115145000 +0800">
-		<tit>
 	<programme channel="汽摩" start="20260115142500 +0800" stop="20260115142600 +0800">
 		<title lang="zh">爱车小百科</title>
 	</programme>
